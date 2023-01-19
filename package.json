@@ -1,6 +1,6 @@
 {
   "name": "@khalidalansi/use-interval",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A custom React Hook to help you implement a \"interval\" method.",
   "author": "khalidalansi",
   "license": "MIT",
