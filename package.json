@@ -1,5 +1,5 @@
 {
-  "name": "use-interval",
+  "name": "@khalidalansi/use-interval",
   "version": "1.0.1",
   "description": "A custom React Hook to help you implement a \"interval\" method.",
   "main": "index.js",
@@ -11,6 +11,10 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   },
   "keywords": [
     "react-hooks",
