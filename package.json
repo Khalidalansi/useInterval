@@ -1,6 +1,6 @@
 {
   "name": "use-interval",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A custom React Hook to help you implement a \"interval\" method.",
   "main": "index.js",
   "source": "src/index.js",
